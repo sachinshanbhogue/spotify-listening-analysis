@@ -85,7 +85,7 @@ The dashboard enables interactive exploration using slicers and drill-throughs.
 ## 📑 Detailed Case Study
 A step-by-step walkthrough of the analysis, methodology, and insights is available here:
 
-👉 [spotify analysis  (PDF)](presentation/spotify_analysis.pdf)
+👉 [spotify analysis  (PDF)](presentation/spotify analysis.pdf)
 
 
 ---
