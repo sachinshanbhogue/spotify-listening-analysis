@@ -82,6 +82,12 @@ The dashboard enables interactive exploration using slicers and drill-throughs.
 - Song diversity peaked in 2023 before declining slightly
 - Skip rates increased during high-intensity listening periods
 
+## 📑 Detailed Case Study
+A step-by-step walkthrough of the analysis, methodology, and insights is available here:
+
+👉 [Spotify Analysis – Case Study (PDF)](presentation/spotify_analysis.pdf)
+
+
 ---
 
 ## 🚀 Future Enhancements
