@@ -6,10 +6,10 @@ Analyze Spotify streaming history to understand listening behavior, intensity, a
 ---
 
 ## 📂 Data Description
-- Source: Spotify Extended Streaming History
-- Format: JSON
-- Files: Multiple yearly files (2020–2025)
-- Granularity: Track-level listening events
+- **Source:** Spotify Extended Streaming History  
+- **Format:** JSON  
+- **Files:** Multiple yearly files (2020–2025)  
+- **Granularity:** Track-level listening events  
 
 ---
 
@@ -40,7 +40,7 @@ Key data preparation steps performed in Python:
 ---
 
 ## 📊 Analytical Approach
-The analysis focused on understanding *when*, *how*, and *how much* listening occurs:
+The analysis focused on understanding **when**, **how**, and **how much** listening occurs over time.
 
 ### ⏰ Time-Based Listening Patterns
 - Hourly listening trends
@@ -48,7 +48,7 @@ The analysis focused on understanding *when*, *how*, and *how much* listening oc
 - Weekday vs weekend comparisons
 - Listening intensity by month and year
 
-### 🔥 Behavioral Analysis
+### 🎧 Behavioral Analysis
 - Listening streak detection (≥ 240 minutes per day)
 - Skip rate analysis by hour and year
 - Song diversity score based on unique tracks played
@@ -63,26 +63,25 @@ The analysis focused on understanding *when*, *how*, and *how much* listening oc
   - Light listening periods
 
 ---
+
 ## 📸 Python Analysis Highlights
 
 ### ⏰ Hour × Weekday Listening Heatmap
-![day × year Heatmap](analysis_screenshots/per_day_analysis.png)
+![Hour × Weekday Heatmap](analysis_screenshots/per_day_analysis.png)
 
-### 🔥 Skip Detection 
-![Skipping rate by hour of the day](analysis_screenshots/skip_rate_by_hour.png)
-
-
+### ⏭ Skip Rate by Hour
+![Skip Rate by Hour](analysis_screenshots/skip_rate_by_hour.png)
 
 ---
 
 ## 📈 Power BI Dashboard
-The dashboard enables interactive exploration using slicers and drill-throughs.
+The dashboard enables interactive exploration using slicers and drill-through functionality.
 
-### 🔹 Overview Dashboard
+### ▪ Overview Dashboard
 ![Spotify Dashboard Overview](dashboard/spotify_dashboard_overview.png)
 
-### 🔹 Year-wise Drill Through
-![Spotify Drill Through](dashboard/spotify_dashboard_drillthrough.png)
+### ▪ Year-wise Drill-through
+![Spotify Drill-through](dashboard/spotify_dashboard_drillthrough.png)
 
 ---
 
@@ -93,6 +92,8 @@ The dashboard enables interactive exploration using slicers and drill-throughs.
 - Song diversity peaked in 2023 before declining slightly
 - Skip rates increased during high-intensity listening periods
 
+---
+
 ## 📑 Detailed Case Study
 A step-by-step walkthrough of the analysis, methodology, and insights is available here:
 
@@ -100,6 +101,12 @@ A step-by-step walkthrough of the analysis, methodology, and insights is availab
 
 ---
 
+## 🧠 Reflection
+Working on this project helped me strengthen my skills in time-based analysis, feature engineering, and translating raw usage data into meaningful behavioral insights. It also improved my ability to present technical findings through clear visual storytelling.
+
+---
+
 ## 🚀 Future Enhancements
 - Automate data ingestion for future years
-
+- Add artist-level and genre-level analysis
+- Build a refreshable Power BI pipeline
