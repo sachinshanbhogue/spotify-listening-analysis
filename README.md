@@ -79,10 +79,10 @@ The analysis focused on understanding *when*, *how*, and *how much* listening oc
 The dashboard enables interactive exploration using slicers and drill-throughs.
 
 ### 🔹 Overview Dashboard
-![Spotify Dashboard Overview](dashboard/spotify_dashboard_overview.png)
+![Spotify Dashboard Overview](dashboard/spotify_Dashboard_overview.png)
 
 ### 🔹 Year-wise Drill Through
-![Spotify Drill Through](dashboard/spotify_dashboard_drillthrough.png)
+![Spotify Drill Through](dashboard/spotify_dashboard_Drillthrough.png)
 
 ---
 
