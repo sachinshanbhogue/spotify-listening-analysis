@@ -101,7 +101,5 @@ A step-by-step walkthrough of the analysis, methodology, and insights is availab
 ---
 
 ## 🚀 Future Enhancements
-- Rebuild and publish the complete Python notebook
-- Extend analysis using SQL
 - Automate data ingestion for future years
 
