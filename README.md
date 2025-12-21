@@ -68,8 +68,8 @@ The analysis focused on understanding *when*, *how*, and *how much* listening oc
 ### ⏰ Hour × Weekday Listening Heatmap
 ![day × year Heatmap](analysis_screenshots/per_day_analysis.png)
 
-### 🔥 skip Detection 
-![Skipping rate by hour of the day](analysis_screenshots/skip_rate by_hour.png)
+### 🔥 Skip Detection 
+![Skipping rate by hour of the day](analysis_screenshots/skip_rate_by_hour.png)
 
 
 
