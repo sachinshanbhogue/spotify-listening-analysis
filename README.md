@@ -63,6 +63,17 @@ The analysis focused on understanding *when*, *how*, and *how much* listening oc
   - Light listening periods
 
 ---
+## 📸 Python Analysis Highlights
+
+### ⏰ Hour × Weekday Listening Heatmap
+![day × year Heatmap](analysis_screenshots/per_day_analysis.png)
+
+### 🔥 skip Detection 
+![Skipping rate by hour of the day](analysis_screenshots/skip_rate by_hour.png)
+
+
+
+---
 
 ## 📈 Power BI Dashboard
 The dashboard enables interactive exploration using slicers and drill-throughs.
